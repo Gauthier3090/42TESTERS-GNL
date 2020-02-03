@@ -1,7 +1,7 @@
 # 42TESTERS-GNL
 
 This is a complete tester for the 2019 version of the 42 project GetNextLine.
-However it does not test leaks in as much detail as the moulinette. :Warning:
+However it does not test leaks in as much detail as the moulinette. :bangbang:
 
 1 - cd to the folder with your fonctions
 
